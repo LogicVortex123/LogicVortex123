@@ -1,3 +1,12 @@
+<table>
+<tr>
+
+<td width="35%">
+<img src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png" width="260"/>
+</td>
+
+<td width="65%">
+
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 
 <h3 align="center">
@@ -7,6 +16,11 @@
 <p align="center">
 Building impactful web experiences, contributing to open source, and continuously growing as a developer ✨
 </p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
