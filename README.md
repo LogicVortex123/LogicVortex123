@@ -1,11 +1,11 @@
 <table>
 <tr>
 
-<td width="35%">
-<img src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png" width="260"/>
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png" width="100%" style="border-radius:15px; object-fit:cover;"/>
 </td>
 
-<td width="65%">
+<td width="60%">
 
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 
@@ -27,10 +27,10 @@ Building impactful web experiences, contributing to open source, and continuousl
 ## 🌱 Currently Learning & Building
 
 - 🚀 Advanced Full Stack MERN Development
-- ⚙ Scalable Backend Systems & REST APIs
+- ⚙️ Scalable Backend Systems & REST APIs
 - 🧠 Data Structures & Problem Solving
 - 🌐 Real-World Open Source Contributions
-- 🏗 Clean Architecture & Modern Web Practices
+- 🏗️ Clean Architecture & Modern Web Practices
 
 ---
 
@@ -84,12 +84,12 @@ Building impactful web experiences, contributing to open source, and continuousl
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 </p>
 
-## ⚙ Backend Development
+## ⚙️ Backend Development
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🗄 Databases
+## 🗄️ Databases
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
