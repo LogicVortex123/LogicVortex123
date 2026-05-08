@@ -1,11 +1,18 @@
 <table>
 <tr>
 
-<td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png" width="100%" style="border-radius:15px; object-fit:cover;"/>
+<td width="38%" align="center">
+
+<img 
+src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png"
+width="320"
+height="320"
+style="border-radius:20px; object-fit:cover;"
+/>
+
 </td>
 
-<td width="60%">
+<td width="62%">
 
 <h1 align="center">Hi 👋, I'm Anushka</h1>
 
