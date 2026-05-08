@@ -50,6 +50,10 @@ Building impactful web experiences, contributing to open source, and continuousl
   <a href="https://codeforces.com/profile/anushka_dudhe" target="_blank">
     <img src="https://cdn.simpleicons.org/codeforces/white" height="50" />
   </a>
+
+  <a href="https://www.codechef.com/users/anushkap25" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="50" />
+  </a>
 </p>
 
 ---
