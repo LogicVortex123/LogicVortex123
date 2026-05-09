@@ -1,17 +1,6 @@
 <table>
 <tr>
 
-<td width="38%" align="center">
-
-<img 
-src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png"
-width="320"
-height="320"
-style="border-radius:20px; object-fit:cover;"
-/>
-
-</td>
-
 <td width="62%">
 
 <h1 align="center">Hi 👋, I'm Anushka</h1>
@@ -23,6 +12,17 @@ style="border-radius:20px; object-fit:cover;"
 <p align="center">
 Building impactful web experiences, contributing to open source, and continuously growing as a developer ✨
 </p>
+
+</td>
+
+<td width="38%" align="center">
+
+<img 
+src="https://raw.githubusercontent.com/LogicVortex123/LogicVortex123/main/Anu%20avatar.png"
+width="260"
+height="260"
+style="border-radius:20px; object-fit:cover;"
+/>
 
 </td>
 
